@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/posthtml/posthtml-bemjson.git"
+    "url": "git+https://github.com/theprotein/posthtml-bemjson.git"
   },
   "keywords": [
     "html",
@@ -37,7 +37,7 @@
   "author": "Ivan Voischev <voischev.ivan@ya.ru>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/posthtml/posthtml-bemjson/issues"
+    "url": "https://github.com/theprotein/posthtml-bemjson/issues"
   },
-  "homepage": "https://github.com/posthtml/posthtml-doctype#readme"
+  "homepage": "https://github.com/theprotein/posthtml-doctype#readme"
 }
