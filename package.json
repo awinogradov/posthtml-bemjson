@@ -1,6 +1,6 @@
 {
   "name": "posthtml-bemjson",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert PostHTML tree to Bemjson tree",
   "main": "index.js",
   "engines": {
