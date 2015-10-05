@@ -1,0 +1,42 @@
+{
+  "name": "posthtml-bemjson",
+  "version": "1.0.0",
+  "description": "Convert PostHTML tree to Bemjson tree",
+  "main": "index.js",
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "dependencies": {
+    "bem-naming": "^0.5.1"
+  },
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "jscs": "^1.13.1",
+    "jshint": "^2.8.0",
+    "mocha": "^2.2.5",
+    "posthtml": "^0.4.1"
+  },
+  "scripts": {
+    "test": "npm run lint && mocha",
+    "lint": "jshint . && jscs . -v"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/posthtml/posthtml-bemjson.git"
+  },
+  "keywords": [
+    "html",
+    "posthtml-plugin",
+    "bemjson",
+    "postproccessor",
+    "parser",
+    "transform",
+    "manipulation"
+  ],
+  "author": "Ivan Voischev <voischev.ivan@ya.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/posthtml/posthtml-bemjson/issues"
+  },
+  "homepage": "https://github.com/posthtml/posthtml-doctype#readme"
+}
