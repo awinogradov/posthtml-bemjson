@@ -28,6 +28,7 @@
     "html",
     "posthtml-plugin",
     "bemjson",
+    "bem",
     "postproccessor",
     "parser",
     "transform",
