@@ -1,7 +1,7 @@
 # PostHTML-bemjson
 [![npm version](https://badge.fury.io/js/posthtml-bemjson.svg)](http://badge.fury.io/js/posthtml-bemjson)
 
-[PostHTML](http://github.com/posthtml/posthtml) plugin  to convert PostHTML tree to [Bemjson](https://ru.bem.info/technology/bemjson/v2/bemjson/) tree
+[PostHTML](https://github.com/posthtml/posthtml) plugin to convert PostHTML tree to [BEMJSON](https://en.bem.info/technology/bemjson/) tree
 
 ## Usage
 
